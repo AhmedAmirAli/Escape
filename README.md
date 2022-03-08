@@ -28,5 +28,5 @@
 - **Grabbing Objects:**
   <kbd> K </kbd>
 
-Some of the stages will require **Input** from only **One** Character ``` **The Orange Character** ```to move **Both** Characters.
+Some of the stages will require **Input** from only **One** Character ``` The Orange Character ```to move **Both** Characters.
  
