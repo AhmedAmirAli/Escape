@@ -12,7 +12,7 @@
 				<kbd> W </kbd>
   <kbd> A </kbd> <kbd> S </kbd> <kbd> D </kbd> 
 - **For Jumping:**
-  <kbd> 				 Space 					</kbd>
+  <kbd>Space</kbd>
 - **Grabbing Objects:**
   <kbd> F </kbd>
   ### <span style="blue">**Blue**</span> **Character**: 
