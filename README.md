@@ -7,22 +7,26 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Controls**    
-### <span style="orange">**Orange**</span> **Character**: 
+
+### **Orange Character**: 
+
 - **For Movement:**
-				<kbd> W </kbd>
+	<kbd> W </kbd>
   <kbd> A </kbd> <kbd> S </kbd> <kbd> D </kbd> 
 - **For Jumping:**
   <kbd>Space</kbd>
 - **Grabbing Objects:**
   <kbd> F </kbd>
-  ### <span style="blue">**Blue**</span> **Character**: 
+  
+### **Blue Character**: 
+
 - **For Movement:**
-				<kbd> UpArrow </kbd>
+	<kbd> UpArrow </kbd>
   <kbd> LeftArrow </kbd> <kbd> DownArrow </kbd> <kbd> RightArrow </kbd> 
 - **For Jumping:**
   <kbd> J </kbd>
 - **Grabbing Objects:**
   <kbd> K </kbd>
 
-Some of the stages will require **Input** from only **One** Character to move **Both** Characters.
+Some of the stages will require **Input** from only **One** Character ``` **The Orange Character** ```to move **Both** Characters.
  
