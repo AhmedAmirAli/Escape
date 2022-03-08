@@ -7,8 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Controls**    
-
-* ### <span style="orange">some **Orange** text</span> **Character**: 
+### <span style="orange">**Orange**</span> **Character**: 
 - **For Movement:**
 				<kbd> W </kbd>
   <kbd> A </kbd> <kbd> S </kbd> <kbd> D </kbd> 
@@ -16,7 +15,7 @@
   <kbd> 				 Space 					</kbd>
 - **Grabbing Objects:**
   <kbd> F </kbd>
- * ### <span style="blue">some **Blue** text</span> **Character**: 
+  ### <span style="blue">**Blue**</span> **Character**: 
 - **For Movement:**
 				<kbd> UpArrow </kbd>
   <kbd> LeftArrow </kbd> <kbd> DownArrow </kbd> <kbd> RightArrow </kbd> 
