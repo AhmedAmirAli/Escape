@@ -5,10 +5,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **Controls | How To Play**    
+## **Controls | How To Play**
 
-### **Orange Character**: 
-
+### **Orange Character**:
 - **For Movement:**
 	<kbd> W </kbd>
   <kbd> A </kbd> <kbd> S </kbd> <kbd> D </kbd> 
@@ -17,8 +16,7 @@
 - **Grabbing Objects:**
   <kbd> E </kbd>
   
-### **Blue Character**: 
-
+### **Blue Character**:
 - **For Movement:**
 	<kbd> UpArrow </kbd>
   <kbd> LeftArrow </kbd> <kbd> DownArrow </kbd> <kbd> RightArrow </kbd> 
@@ -31,5 +29,6 @@ Some of the stages will require **Input** from only **One** Character ``` The Or
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **Builds**
-[**Linux**](https://drive.google.com/file/d/1jtAMrZ-bxstjen8C7EPJNjaQg9igBV6v/view?usp=sharing)
+<details><summary><b><h2>Builds</h2></b></summary>
+<a href="https://drive.google.com/file/d/1jtAMrZ-bxstjen8C7EPJNjaQg9igBV6v/view?usp=sharing"><b>Linux</b></a>
+</details>
