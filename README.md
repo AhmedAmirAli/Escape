@@ -32,5 +32,6 @@ Some of the stages will require **Input** from only **One** Character ``` The Or
 <details>
 	<summary><b>Builds</b></summary>
 	<a href="https://drive.google.com/file/d/1jtAMrZ-bxstjen8C7EPJNjaQg9igBV6v/view?usp=sharing"><b>Linux</b></a>
+||
 	<a href="https://drive.google.com/file/d/1YQvuUF1KU4NzyAFIGQrx5Ck7WAPzLOuj/view?usp=sharing"><b>Windows</b></a>
 </details>
